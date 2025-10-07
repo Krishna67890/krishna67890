@@ -1,135 +1,126 @@
-<!-- ✨ Profile README for Krishna Patil Rajput -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,18&height=250&section=header&text=Hey%20There!%20I'm%20Krishna%20Patil%20Rajput%20🚀&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff" alt="Header"/>
+</div>
 
-<!-- Top Animated Banner -->
-<p align="center">
-  <img src="https://github.com/krishna67890/krishna67890/blob/main/assets/banner.gif" alt="banner" width="100%" />
-</p>
-
-<h1 align="center">👋 Hey there, I'm <span style="color:#00C9FF;">Krishna Patil Rajput</span> 🚀</h1>
-<h3 align="center">💻 MERN Stack Developer | 🧠 Tech Explorer | 🌐 Fynd Academy Student</h3>
-
-<p align="center">
-  <a href="https://krishnablogy.blogspot.com/" target="_blank"><img src="https://img.shields.io/badge/🌐%20Blog-krishnablogy.blogspot.com-blueviolet?style=for-the-badge&logo=google-chrome" /></a>
-  <a href="https://github.com/Krishna67890" target="_blank"><img src="https://img.shields.io/badge/GitHub-Krishna67890-black?style=for-the-badge&logo=github" /></a>
-  <a href="https://www.linkedin.com/in/krishna-patil-rajput-b66b03340" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Krishna%20Patil%20Rajput-0077B5?style=for-the-badge&logo=linkedin" /></a>
-</p>
+<div align="center">
+  <h3><b>MERN Stack Developer | Tech Explorer | Fynd Academy Student</b></h3>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Full-Stack+Developer+from+India;Building+Interactive+Web+Apps;Exploring+Next.js,+Docker,+and+Automation;Always+Learning+Something+New!" alt="Typing SVG" />
+</div>
 
 ---
 
-### 🧠 About Me  
+### 💫 About Me
+<img align="right" alt="Coding GIF" width="420" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-I’m a **2nd Year Information Technology Student** from **Nashik, Maharashtra, India**, passionate about **Full-Stack Web Development**, **Operating Systems**, and **Game Development**.  
-I build projects that **combine creativity + functionality**, focusing on **real-world web apps** and **interactive games**.
-
-> 🧩 “Turning ideas into digital realities through code & design.”
-
----
-
-### 🔥 What I Do  
-
-- 🚀 Build full-stack apps with **MERN (MongoDB, Express, React, Node.js)**  
-- 🎨 Design interactive UIs using **React + Tailwind + Framer Motion**  
-- ⚙️ Develop secure backend APIs with **Express.js & JWT Auth**  
-- 🕹️ Create browser-based games using **HTML, CSS, JS, and Canvas**  
-- 🐧 Explore **Linux Distros**, **Virtual Machines**, and **System Automation**
+- 🌍 From **Nashik, Maharashtra, India**  
+- 💻 Passionate about **Full-Stack Web Development** using **MERN (MongoDB, Express, React, Node.js)**  
+- ⚡ Skilled in **React, Tailwind, TypeScript, and GSAP** for creating smooth, dynamic UIs  
+- 💾 Backend experience with **Node.js, Express & REST APIs**  
+- 💿 Tech enthusiast who loves **OS installation, virtualization & dual-boot setups**  
+- 📚 Constantly learning **Next.js**, **Docker**, and **system automation**  
+- ☕ Fun Fact: *“I debug my code faster with coffee and curiosity.”*
 
 ---
 
-### 🛠️ Tech Stack  
+### 🛠️ My Tech Arsenal
 
-| 💻 **Category** | 🧰 **Technologies / Tools** |
-|-----------------|-----------------------------|
-| 🎨 **Frontend** | React.js · Next.js · Tailwind CSS · TypeScript · GSAP · Framer Motion |
-| ⚙️ **Backend** | Node.js · Express.js · REST APIs |
-| 🗄️ **Database** | MongoDB · Mongoose |
-| 🧩 **Tools** | Git · GitHub · VS Code · Postman · Vercel · Render · Netlify |
-| 🧠 **OS / Virtualization** | Ubuntu · Linux Mint · Chrome OS · VirtualBox · Dual Boot |
-| 🧑‍💻 **Others** | Python · C · Bash (Basic) · UI/UX Concepts |
-
----
-
-### 🎮 My Games Collection  
-
-> 💡 I love building fun, interactive browser and Python games!  
-> All are **mobile-friendly**, **open-source**, and **playable on my blog** 🌐
-
-<p align="center">
-  <a href="https://krishnablogy.blogspot.com" target="_blank">
-    <img src="https://github.com/krishna67890/krishna67890/blob/main/assets/games.gif" width="100%" alt="Games Preview"/>
-  </a>
-</p>
-
-| 🎯 Game | 🕹️ Description | 🔗 Links |
-|----------|----------------|----------|
-| 🪐 **Space Invaders (Python)** | Classic space shooter built using Pygame | [🔗 Repo](https://github.com/Krishna67890/Hacktoberfest_2025/tree/main/python/Space_invendors_Game) |
-| 🧩 **2048 Game (Web)** | Merge tiles to reach 2048! | [🎮 Play](https://krishnablogy.blogspot.com) |
-| 🎲 **Ludo & Carrom (Web)** | Classic Indian board games with JS logic | [🎮 Try it!](https://krishnablogy.blogspot.com) |
-| 🪜 **Snakes & Ladders (3 Player)** | Fun multiplayer version on Blogger | [🎮 Play Now](https://krishnablogy.blogspot.com) |
-| ⚽ **Football Game (Canvas)** | Circle physics-based football match! | [🎮 See Demo](https://krishnablogy.blogspot.com) |
-
----
-
-### 🌱 Currently Exploring  
-
-- ⚛️ **Next.js 15** & **TypeScript Mastery**  
-- 🐳 **Docker & Deployment Workflows**  
-- 🧠 **AI + System Automation Projects**  
-- 🕹️ Building a **new physics-based game** (coming soon!)  
-
----
-
-### 🏆 GitHub Highlights  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Krishna67890&theme=tokyonight&margin-w=10&margin-h=10&no-frame=true" alt="GitHub Trophies" />
-</p>
-
----
-
-### 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Krishna67890&show_icons=true&theme=tokyonight&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishna67890&layout=compact&theme=tokyonight" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Krishna67890&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+<table width="100%">
+  <tr>
+    <td valign="top" width="50%">
+      <fieldset>
+        <legend><strong>💻 Frontend</strong></legend>
+        <p>
+          <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
+          <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+          <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+          <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
+        </p>
+      </fieldset>
+      <fieldset>
+        <legend><strong>⚙️ Backend & Database</strong></legend>
+        <p>
+          <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+          <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+          <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+          <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+        </p>
+      </fieldset>
+    </td>
+    <td valign="top" width="50%">
+      <fieldset>
+        <legend><strong>🧠 Others & Tools</strong></legend>
+        <p>
+          <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+          <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+          <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+          <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+          <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
+          <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
+        </p>
+      </fieldset>
+      <fieldset>
+        <legend><strong>💬 Languages</strong></legend>
+        <p>
+          <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+          <img src="https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+        </p>
+      </fieldset>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🚀 Career Highlights  
+### 🌱 Currently Working On
 
-✅ Developed **5+ Projects** (including games & full-stack apps)  
-💻 **Hands-on MERN Development** experience  
-🎨 Expert in **React, Tailwind, TypeScript & Animations**  
-⚙️ Built & configured **Dual Boot + Virtual Machines**  
-📚 **Fynd Academy Student** — Continuously exploring innovation  
+🚀 Building **new and diverse projects** exploring different domains — from **Next.js web apps** to **system automation scripts**.  
+I love experimenting with **modern tools**, refining **UI/UX**, and developing **efficient, scalable backend architectures**.
 
 ---
 
-### 🌐 Connect With Me  
+### 🏆 GitHub Achievements
 
-<p align="center">
-  <a href="https://krishnablogy.blogspot.com/"><img src="https://img.shields.io/badge/🌐%20Blog-krishnablogy.blogspot.com-blueviolet?style=for-the-badge&logo=google-chrome" /></a>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Krishna67890&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies" />
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Krishna67890&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" height="192px"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Krishna67890&theme=tokyonight&hide_border=true" height="192px"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishna67890&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="192px"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Krishna67890&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph" height="192px"/>
+</div>
+
+---
+
+### 🐍 My Contribution Snake
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</div>
+
+---
+
+### 🌐 Connect With Me
+<div align="center">
+  <a href="https://krishnablogy.blogspot.com/"><img src="https://img.shields.io/badge/🌐%20Blog-krishnablogy.blogspot.com-blue?style=for-the-badge" /></a>
   <a href="https://github.com/Krishna67890"><img src="https://img.shields.io/badge/GitHub-Krishna67890-black?style=for-the-badge&logo=github" /></a>
-  <a href="https://www.linkedin.com/in/krishna-patil-rajput-b66b03340"><img src="https://img.shields.io/badge/LinkedIn-Krishna%20Patil%20Rajput-0077B5?style=for-the-badge&logo=linkedin" /></a>
-</p>
+  <a href="https://www.linkedin.com/in/krishna-patil-rajput-b66b03340"><img src="https://img.shields.io/badge/LinkedIn-Krishna%20Patil%20Rajput-blue?style=for-the-badge&logo=linkedin" /></a>
+</div>
 
 ---
 
-<p align="center">
-  ✨ <b>“I don’t just write code — I craft digital experiences that blend creativity, logic, and purpose.”</b> ✨  
-</p>
-
-<p align="center">
-  ⭐ <b>If you like my work, star my repositories & follow for more cool projects!</b> ⭐
-</p>
-
----
-
-<!-- Footer -->
-<p align="center">
-  <img src="https://github.com/krishna67890/krishna67890/blob/main/assets/footer.svg" width="100%">
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,18&height=100&section=footer" />
+  <br>
+  <img src="https://visitcount.itsvg.in/api?id=Krishna67890&icon=2&color=6" alt="Visitor Count"/>
+  <br>
+  <h4>⭐ Show some love by starring a few repositories! ⭐</h4>
+</div>
