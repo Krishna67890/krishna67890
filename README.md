@@ -1,15 +1,15 @@
 <!-- ✨ Profile README for Krishna Patil Rajput -->
 
-<!-- Top Banner -->
+<!-- Top Animated Banner -->
 <p align="center">
   <img src="https://github.com/krishna67890/krishna67890/blob/main/assets/banner.gif" alt="banner" width="100%" />
 </p>
 
-<h1 align="center">🚀 Hi, I'm <span style="color:#00C9FF;">Krishna Patil Rajput</span></h1>
+<h1 align="center">👋 Hey there, I'm <span style="color:#00C9FF;">Krishna Patil Rajput</span> 🚀</h1>
 <h3 align="center">💻 MERN Stack Developer | 🧠 Tech Explorer | 🌐 Fynd Academy Student</h3>
 
 <p align="center">
-  <a href="https://krishnablogy.blogspot.com/" target="_blank"><img src="https://img.shields.io/badge/🌐%20My%20Blog-krishnablogy.blogspot.com-blueviolet?style=for-the-badge&logo=google-chrome" /></a>
+  <a href="https://krishnablogy.blogspot.com/" target="_blank"><img src="https://img.shields.io/badge/🌐%20Blog-krishnablogy.blogspot.com-blueviolet?style=for-the-badge&logo=google-chrome" /></a>
   <a href="https://github.com/Krishna67890" target="_blank"><img src="https://img.shields.io/badge/GitHub-Krishna67890-black?style=for-the-badge&logo=github" /></a>
   <a href="https://www.linkedin.com/in/krishna-patil-rajput-b66b03340" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Krishna%20Patil%20Rajput-0077B5?style=for-the-badge&logo=linkedin" /></a>
 </p>
@@ -18,21 +18,20 @@
 
 ### 🧠 About Me  
 
-I’m a **2nd Year Information Technology Student** from **Nashik, Maharashtra, India**, driven by a deep passion for **Full-Stack Web Development** and **Operating Systems**.  
-I create **fast, scalable, and dynamic** apps using the **MERN Stack**, and love exploring **how systems and software interact** at every level.
+I’m a **2nd Year Information Technology Student** from **Nashik, Maharashtra, India**, passionate about **Full-Stack Web Development**, **Operating Systems**, and **Game Development**.  
+I build projects that **combine creativity + functionality**, focusing on **real-world web apps** and **interactive games**.
 
-> 🧩 “Turning ideas into functional and elegant code is my superpower.”
+> 🧩 “Turning ideas into digital realities through code & design.”
 
 ---
 
 ### 🔥 What I Do  
 
-- 💡 Build full-stack applications with **MongoDB, Express, React, Node.js**  
-- 🎨 Craft beautiful, responsive UI with **React + Tailwind + GSAP**  
-- ⚙️ Develop robust backend APIs with **Node.js & Express**  
-- 💾 Manage and secure databases with **MongoDB**  
-- 💻 Configure **dual boot systems** and explore **virtualization (VirtualBox)**  
-- 🧠 Experiment with **Linux distros** and **system automation**
+- 🚀 Build full-stack apps with **MERN (MongoDB, Express, React, Node.js)**  
+- 🎨 Design interactive UIs using **React + Tailwind + Framer Motion**  
+- ⚙️ Develop secure backend APIs with **Express.js & JWT Auth**  
+- 🕹️ Create browser-based games using **HTML, CSS, JS, and Canvas**  
+- 🐧 Explore **Linux Distros**, **Virtual Machines**, and **System Automation**
 
 ---
 
@@ -40,25 +39,46 @@ I create **fast, scalable, and dynamic** apps using the **MERN Stack**, and love
 
 | 💻 **Category** | 🧰 **Technologies / Tools** |
 |-----------------|-----------------------------|
-| 🎨 **Frontend** | React.js · Next.js · Tailwind CSS · TypeScript · JavaScript (ES6+) · GSAP · JSX |
+| 🎨 **Frontend** | React.js · Next.js · Tailwind CSS · TypeScript · GSAP · Framer Motion |
 | ⚙️ **Backend** | Node.js · Express.js · REST APIs |
 | 🗄️ **Database** | MongoDB · Mongoose |
 | 🧩 **Tools** | Git · GitHub · VS Code · Postman · Vercel · Render · Netlify |
-| 🐧 **Virtualization & OS** | VirtualBox · Vectrus VM · Dual Boot · Ubuntu · Windows · Chrome OS · Linux Mint |
-| 🧑‍💻 **Others** | Python (Beginner) · C · Bash (Basic) · UI/UX Awareness |
+| 🧠 **OS / Virtualization** | Ubuntu · Linux Mint · Chrome OS · VirtualBox · Dual Boot |
+| 🧑‍💻 **Others** | Python · C · Bash (Basic) · UI/UX Concepts |
+
+---
+
+### 🎮 My Games Collection  
+
+> 💡 I love building fun, interactive browser and Python games!  
+> All are **mobile-friendly**, **open-source**, and **playable on my blog** 🌐
+
+<p align="center">
+  <a href="https://krishnablogy.blogspot.com" target="_blank">
+    <img src="https://github.com/krishna67890/krishna67890/blob/main/assets/games.gif" width="100%" alt="Games Preview"/>
+  </a>
+</p>
+
+| 🎯 Game | 🕹️ Description | 🔗 Links |
+|----------|----------------|----------|
+| 🪐 **Space Invaders (Python)** | Classic space shooter built using Pygame | [🔗 Repo](https://github.com/Krishna67890/Hacktoberfest_2025/tree/main/python/Space_invendors_Game) |
+| 🧩 **2048 Game (Web)** | Merge tiles to reach 2048! | [🎮 Play](https://krishnablogy.blogspot.com) |
+| 🎲 **Ludo & Carrom (Web)** | Classic Indian board games with JS logic | [🎮 Try it!](https://krishnablogy.blogspot.com) |
+| 🪜 **Snakes & Ladders (3 Player)** | Fun multiplayer version on Blogger | [🎮 Play Now](https://krishnablogy.blogspot.com) |
+| ⚽ **Football Game (Canvas)** | Circle physics-based football match! | [🎮 See Demo](https://krishnablogy.blogspot.com) |
 
 ---
 
 ### 🌱 Currently Exploring  
 
-🚀 **Next.js** & **TypeScript**  
-🐳 **Docker Basics**  
-🧩 **System Automation**  
-🖥️ Building my personal **portfolio & blog** — [krishnablogy.blogspot.com](https://krishnablogy.blogspot.com)
+- ⚛️ **Next.js 15** & **TypeScript Mastery**  
+- 🐳 **Docker & Deployment Workflows**  
+- 🧠 **AI + System Automation Projects**  
+- 🕹️ Building a **new physics-based game** (coming soon!)  
 
 ---
 
-### 🏆 GitHub Achievements  
+### 🏆 GitHub Highlights  
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Krishna67890&theme=tokyonight&margin-w=10&margin-h=10&no-frame=true" alt="GitHub Trophies" />
@@ -79,24 +99,13 @@ I create **fast, scalable, and dynamic** apps using the **MERN Stack**, and love
 
 ---
 
-### 🚀 My Highlights  
+### 🚀 Career Highlights  
 
-✅ **5+ Projects** including a **Real-Time Audio Call App**  
-💻 Hands-on **MERN Development Experience**  
-🎯 Expert in **React, Tailwind, TypeScript, and GSAP Animations**  
-⚙️ **Dual Boot & Virtual Machine** Configurations  
-📘 **Fynd Academy Student** | Always exploring new tech  
-
----
-
-### 💫 Featured Projects  
-
-| 🌟 Project | 🔗 Links |
-|------------|----------|
-| 🎮 **Space Invaders Game (Python)** | [🔗 Repo](https://github.com/Krishna67890/Hacktoberfest_2025/tree/main/python/Space_invendors_Game) |
-| 💬 **Real-Time Audio Call App** | [🚀 Coming Soon] |
-| 🧮 **2048 Game (Web)** | [🔗 Play on Blogger](https://krishnablogy.blogspot.com) |
-| 🎲 **Ludo, Carrom, Snakes & Ladders Games** | [🎮 See on Blog](https://krishnablogy.blogspot.com) |
+✅ Developed **5+ Projects** (including games & full-stack apps)  
+💻 **Hands-on MERN Development** experience  
+🎨 Expert in **React, Tailwind, TypeScript & Animations**  
+⚙️ Built & configured **Dual Boot + Virtual Machines**  
+📚 **Fynd Academy Student** — Continuously exploring innovation  
 
 ---
 
@@ -115,7 +124,7 @@ I create **fast, scalable, and dynamic** apps using the **MERN Stack**, and love
 </p>
 
 <p align="center">
-  ⭐ <b>If you like my work, don’t forget to star my repositories!</b> ⭐
+  ⭐ <b>If you like my work, star my repositories & follow for more cool projects!</b> ⭐
 </p>
 
 ---
