@@ -1,24 +1,31 @@
-# 🗺️ Krishna's Legend: From School to Engineering
+# 🗺️ Krishna's Adventure Map
 
-### 🏫 The Academic Roots (Nashik)
-- **Phase 1:** Holy Flower English School (Nursery to 3rd Std) - Where it all began.
-- **Phase 2:** KKW English Medium High School (4th to 10th Std).
-- **Phase 3:** HAL Ozer College (11th & 12th Std) - Transitioning to Science.
-- **Current:** Matoshri College of Engineering (1st & 2nd Year).
-
----
-
-### 💻 The Coding Timeline
-- **Post-10th Level:** Started with **HTML (Advanced)**, CSS, and JS. Explored Python, C, C++, and Rust basics.
-- **11th - 12th Level:** Dived deep into **React.js**. Built 2 fundamental projects during junior college.
-- **Engineering Year 1:** Focused strictly on React. Completed **2 Advanced React Projects**.
-- **Engineering Year 2 (Current):** - Jumped into **Android Studio**.
-  - Completed **2 Native Android Projects**.
-  - Transitioning to **Next.js** for high-performance web apps.
+## 📍 Stage 1: The Foundation (Nashik)
+* **Primary:** Holy Flower English School (Nursery - 3rd)
+* **Intermediate:** KKW English Medium High School (4th - 10th)
+* **Junior College:** HAL Ozer College (11th - 12th)
+* **Engineering:** Currently in 2nd Year at **Matoshri College of Engineering**.
 
 ---
 
-### 🎮 The Final Quest (Future Goal)
-My vision is to master the **Godot Game Engine**. I plan to build interactive 2D and 3D games, combining my systems knowledge (C++/Rust) with creative gameplay.
+## 💻 Stage 2: The Coding Spark
+My coding journey didn't start in a classroom; it started with curiosity after 10th grade.
 
-[⬅️ Back to Home](README.md)
+* **The Basics:** Mastered **HTML (Advanced)** and CSS to build my first static websites.
+* **The Exploration:** Tinkered with JS, Python, C, C++, and Rust to understand different programming paradigms.
+
+---
+
+## 🚀 Stage 3: Professional Growth
+* **11th - 12th Grade:** Started focusing on modern frameworks. Built **2 React Websites**.
+* **1st Year Engineering:** Leveled up to **Advanced React**. Completed **2 major projects** focusing on UI/UX.
+* **2nd Year Engineering (Now):** * Completed **4 Advanced React Websites**.
+    * Transitioned to Mobile: Completed **2 Native Android Studio Projects**.
+    * Expanding into **Next.js** for SEO-optimized websites.
+
+---
+
+## 🎯 Stage 4: The Godot Goal
+The ultimate boss level! I am preparing to move into **Game Development** using the Godot Engine. I want to build worlds that combine my technical logic with creative storytelling.
+
+[⬅️ Go Back to Profile](README.md)
