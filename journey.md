@@ -1,25 +1,24 @@
-# 🗺️ The Legend of Krishna Patil Rajput
+# 🗺️ Krishna's Legend: From School to Engineering
 
-### 📍 Level 1: The Foundations (Nashik)
-- **Primary:** Holy Flower English School (Nursary - 3rd)
-- **High School:** KKW English Medium High School (4th - 10th)
-- **College:** HAL Ozer College (11th - 12th)
+### 🏫 The Academic Roots (Nashik)
+- **Phase 1:** Holy Flower English School (Nursery to 3rd Std) - Where it all began.
+- **Phase 2:** KKW English Medium High School (4th to 10th Std).
+- **Phase 3:** HAL Ozer College (11th & 12th Std) - Transitioning to Science.
+- **Current:** Matoshri College of Engineering (1st & 2nd Year).
 
-### 💻 Level 2: The Coding Spark (Post-10th)
-After 10th grade, I didn't just play games—I started building them.
-- Started with **HTML (Advanced)**, CSS, and JS.
-- Explored the basics of **Python, C, C++, and Rust**.
+---
 
-### ⚛️ Level 3: The React Era (11th - 2nd Year)
-- **11th-12th:** Committed to the React ecosystem. Built my first 2 projects.
-- **1st Year Engineering:** Pushed my limits. Completed **4 Advanced React Projects**.
-- **Current (2nd Year):** Studying at **Matoshri College of Engineering**.
+### 💻 The Coding Timeline
+- **Post-10th Level:** Started with **HTML (Advanced)**, CSS, and JS. Explored Python, C, C++, and Rust basics.
+- **11th - 12th Level:** Dived deep into **React.js**. Built 2 fundamental projects during junior college.
+- **Engineering Year 1:** Focused strictly on React. Completed **2 Advanced React Projects**.
+- **Engineering Year 2 (Current):** - Jumped into **Android Studio**.
+  - Completed **2 Native Android Projects**.
+  - Transitioning to **Next.js** for high-performance web apps.
 
-### 📱 Level 4: Current Quest
-- Mastered **Android Studio** (2 Native Apps completed!).
-- Currently learning **Next.js** to build SEO-friendly, scalable apps.
+---
 
-### 🕹️ Final Boss: Game Development
-My ultimate goal is to transition into **Godot Game Engine**. I want to combine my logic from C++ and Rust with modern game design to create immersive worlds.
+### 🎮 The Final Quest (Future Goal)
+My vision is to master the **Godot Game Engine**. I plan to build interactive 2D and 3D games, combining my systems knowledge (C++/Rust) with creative gameplay.
 
-[⬅️ Back to Profile](README.md)
+[⬅️ Back to Home](README.md)
