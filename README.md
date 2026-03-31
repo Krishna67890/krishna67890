@@ -19,7 +19,7 @@
 <img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZueXp6bm9ueXpueXpueXpueXpueXpueXpueXpueXpueXpueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🔭 **Focus:** High-performance Web & Android UX refinement.
-- 🎓 **Education:** 2nd Year Computer Engineering at **MCOERC, Nashik**.
+- 🎓 **Education:** 2nd Year IT Engineering at **MCOERC, Nashik**.
 - 🛠️ **Experience:** 4 Advanced React Sites & 2 Native Android Apps.
 - 🎮 **Adventure:** [**Trace my journey from school to Engineering →**](./journey.md)
 - ⚡ **Fun Fact:** Started coding post-10th; obsessed with Rust & Godot lately.
