@@ -33,7 +33,7 @@
       <!-- avatar (real logo) -->
       <circle cx="150" cy="140" r="62" fill="#0a0f1e" stroke="#0ea5e9" stroke-width="3"/>
       <g clip-path="url(#avatarClip)">
-        <image href="./logo.jpg" x="90" y="80" width="120" height="120" preserveAspectRatio="xMidYMid slice"/>
+        <image href=".logo.jpg" x="90" y="80" width="120" height="120" preserveAspectRatio="xMidYMid slice"/>
       </g>
 
       <text x="150" y="235" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="21" font-weight="700" fill="#f1f5f9">Krishna Patil Rajput</text>
