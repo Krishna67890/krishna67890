@@ -31,9 +31,9 @@
 | | |
 | :--- | :--- |
 | 🌐 **Portfolio** | [krishna-patil-rajput.vercel.app](https://krishna-patil-rajput.vercel.app/) |
-| 🎓 **Studying** | IT Engineering, 3rd Year @ Matoshri College of Engineering |
+| 🎓 **Studying** | IT Engineering, 2nd Year @ Matoshri College of Engineering |
 | 💼 **Available for** | Freelance projects & hackathons |
-| 🏷️ **Brand** | KRISHNACODERS | Krishna-Patil-Rajput | 
+| 🏷️ **Brand** | KRISHNACODERS |
 | 🎯 **Building** | Web apps · Android apps · AI products |
 
 <br/>
@@ -48,7 +48,7 @@
 
 ## 👨‍💻 About Me
 
-I'm **Krishna Ajaysing Rajput** — a **Freelance Full-Stack Web Developer**, **Native Android Developer**, and **AI Enthusiast**, currently a 2nd-year IT Engineering student at **Matoshri College of Engineering, Nashik**. I build under the brand **KRISHNACODERS**, focused on clean architecture, intuitive UX, and performance-driven products across Web, Android, and AI.
+I'm **Krishna Patil Rajput** — a **Freelance Full-Stack Web Developer**, **Native Android Developer**, and **AI Enthusiast**, currently a 2nd-year IT Engineering student at **Matoshri College of Engineering, Nashik**. I build under the brand **KRISHNACODERS**, focused on clean architecture, intuitive UX, and performance-driven products across Web, Android, and AI.
 
 Check out my full body of work on my portfolio: **[krishna-patil-rajput.vercel.app](https://krishna-patil-rajput.vercel.app/)**
 
@@ -106,17 +106,36 @@ Check out my full body of work on my portfolio: **[krishna-patil-rajput.vercel.a
 <br/><br/>
 
 <!-- 📈 Contribution Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Krishna67890&bg_color=0a0f1e&color=38bdf8&line=22d3ee&point=818cf8&area=true&area_color=1e3a8a&hide_border=true&custom_title=Contribution%20Graph%20💙" alt="Contribution graph" width="95%"/>
+<h4>📈 Contribution Activity</h4>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Krishna67890&theme=react-dark&bg_color=0a0f1e&color=38bdf8&line=22d3ee&point=818cf8&area=true&area_color=1e3a8a&hide_border=true&custom_title=Contribution%20Graph%20💙" alt="Contribution graph" width="95%"/>
+
+<sub>⚠️ If this graph doesn't render: the free <code>github-readme-activity-graph.vercel.app</code> instance occasionally sleeps/rate-limits. It usually resolves within a few minutes on refresh — no action needed on your end.</sub>
 
 <br/><br/>
 
 <!-- 🏆 Trophies -->
+<h4>🏆 Trophies</h4>
 <img src="https://github-profile-trophy.vercel.app/?username=Krishna67890&theme=algolia&no-frame=true&row=1&column=7" width="95%"/>
 
 <br/><br/>
 
 ### 🐍 Watch the snake eat my contributions
 <img src="https://raw.githubusercontent.com/Krishna67890/Krishna67890/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" width="100%"/>
+
+<sub>⚠️ Snake blank/broken? The <code>output</code> branch is only created after the <a href="./.github/workflows/snake.yml">snake workflow</a> runs successfully at least once — see the fix checklist below.</sub>
+
+<br/><br/>
+
+<details>
+<summary><b>🔧 Snake not showing? 3-step fix</b></summary>
+<br/>
+
+1. **Settings → Actions → General → Workflow permissions** → select **"Read and write permissions"** → Save. (Without this, the workflow can't push to the `output` branch.)
+2. **Actions tab → "generate animation"** → **Run workflow** (manual trigger) → wait ~30 seconds for it to finish.
+3. Refresh this README — the `output` branch now exists and the snake image will load.
+
+After the first successful run, it auto-regenerates every 24 hours via the cron schedule.
+</details>
 
 <br/><br/>
 
