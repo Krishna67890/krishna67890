@@ -31,9 +31,9 @@
 | | |
 | :--- | :--- |
 | 🌐 **Portfolio** | [krishna-patil-rajput.vercel.app](https://krishna-patil-rajput.vercel.app/) |
-| 🎓 **Studying** | IT Engineering, 2nd Year @ Matoshri College of Engineering |
+| 🎓 **Studying** | IT Engineering, 3rd Year @ Matoshri College of Engineering |
 | 💼 **Available for** | Freelance projects & hackathons |
-| 🏷️ **Brand** | KRISHNACODERS |
+| 🏷️ **Brand** | KRISHNACODERS | Krishna Patil Rajput |
 | 🎯 **Building** | Web apps · Android apps · AI products |
 
 <br/>
@@ -48,7 +48,7 @@
 
 ## 👨‍💻 About Me
 
-I'm **Krishna Patil Rajput** — a **Freelance Full-Stack Web Developer**, **Native Android Developer**, and **AI Enthusiast**, currently a 2nd-year IT Engineering student at **Matoshri College of Engineering, Nashik**. I build under the brand **KRISHNACODERS**, focused on clean architecture, intuitive UX, and performance-driven products across Web, Android, and AI.
+I'm **Krishna Ajaysing Rajput** — a **Freelance Full-Stack Web Developer**, **Native Android Developer**, and **AI Enthusiast**, currently a 2nd-year IT Engineering student at **Matoshri College of Engineering, Nashik**. I build under the brand **KRISHNACODERS**, focused on clean architecture, intuitive UX, and performance-driven products across Web, Android, and AI.
 
 Check out my full body of work on my portfolio: **[krishna-patil-rajput.vercel.app](https://krishna-patil-rajput.vercel.app/)**
 
