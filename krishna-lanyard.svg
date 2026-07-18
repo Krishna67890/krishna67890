@@ -1,0 +1,67 @@
+<svg width="330" height="480" viewBox="0 0 330 480" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="cardGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="stripGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0ea5e9"/>
+      <stop offset="100%" stop-color="#6366f1"/>
+    </linearGradient>
+    <clipPath id="avatarClip">
+      <circle cx="150" cy="140" r="60"/>
+    </clipPath>
+  </defs>
+
+  <g id="lanyardGroup">
+    <animateTransform attributeName="transform" type="rotate"
+      values="2 165 20; -2 165 20; 2 165 20" dur="4s" repeatCount="indefinite"/>
+
+    <!-- strap -->
+    <polygon points="140,0 190,0 200,90 130,90" fill="#0ea5e9" opacity="0.9"/>
+    <rect x="150" y="0" width="30" height="90" fill="#082f49" opacity="0.5"/>
+    <circle cx="165" cy="95" r="10" fill="#0f172a" stroke="#38bdf8" stroke-width="2"/>
+    <circle cx="165" cy="95" r="4" fill="#0a0f1e"/>
+
+    <!-- card -->
+    <g transform="translate(15,105)">
+      <rect x="0" y="0" width="300" height="360" rx="22" fill="url(#cardGrad)" stroke="#1e293b" stroke-width="2"/>
+      <rect x="0" y="0" width="300" height="14" rx="7" fill="url(#stripGrad)"/>
+
+      <text x="150" y="45" text-anchor="middle" font-family="Fira Code, monospace" font-size="13" fill="#38bdf8" letter-spacing="2">KRISHNACODERS</text>
+
+      <!-- avatar (real logo) -->
+      <circle cx="150" cy="140" r="62" fill="#0a0f1e" stroke="#0ea5e9" stroke-width="3"/>
+      <g clip-path="url(#avatarClip)">
+        <image href="./log.jpg" x="90" y="80" width="120" height="120" preserveAspectRatio="xMidYMid slice"/>
+      </g>
+
+      <text x="150" y="235" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="21" font-weight="700" fill="#f1f5f9">Krishna Patil Rajput</text>
+      <text x="150" y="260" text-anchor="middle" font-family="Fira Code, monospace" font-size="13" fill="#94a3b8">Full-Stack · Android · AI</text>
+
+      <line x1="30" y1="278" x2="270" y2="278" stroke="#1e293b" stroke-width="1.5"/>
+
+      <g font-family="Fira Code, monospace" font-size="11" fill="#64748b">
+        <text x="30" y="300">ROLE</text>
+        <text x="30" y="317" fill="#38bdf8">Freelance Developer</text>
+
+        <text x="30" y="336">STATUS</text>
+        <text x="30" y="353" fill="#22d3ee">Available for projects</text>
+      </g>
+
+      <g transform="translate(210,290)">
+        <rect x="0" y="0" width="60" height="60" rx="6" fill="#0a0f1e" stroke="#1e293b"/>
+        <g fill="#38bdf8">
+          <rect x="8" y="8" width="8" height="8"/>
+          <rect x="20" y="8" width="8" height="8"/>
+          <rect x="32" y="8" width="8" height="8"/>
+          <rect x="8" y="20" width="8" height="8"/>
+          <rect x="32" y="20" width="8" height="8"/>
+          <rect x="8" y="32" width="8" height="8"/>
+          <rect x="20" y="32" width="8" height="8"/>
+          <rect x="32" y="32" width="8" height="8"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
