@@ -1,11 +1,7 @@
 <div align="center">
 
 <!-- ✨ Animated Banner ✨ -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./krishna-banner.svg?v=1">
-  <source media="(prefers-color-scheme: light)" srcset="./krishna-banner-light.svg?v=1">
-  <img src="./krishna-banner.svg?v=1" alt="Krishna Patil Rajput — Full-Stack, Android & AI Developer" width="100%"/>
-</picture>
+<img src="./krishnabanner.png" alt="Krishna Patil Rajput — Full-Stack, Android & AI Developer" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&height=45&lines=Freelance+Full-Stack+Web+Developer;Native+Android+Application+Developer;AI+%26+Cloud+Enthusiast;Future+Game+Developer+%7C+Godot+Engine" alt="Typing SVG" />
 
@@ -48,7 +44,7 @@ A quick look at how I work as a freelance developer — from idea to shipped pro
 
 ## 👨‍💻 About Me
 
-I'm **Krishna Patil Rajput** — a **Freelance Full-Stack Web Developer**, **Native Android Developer**, and **AI Enthusiast**, currently a 2nd-year IT Engineering student at **Matoshri College of Engineering, Nashik**. I build under the brand **KRISHNACODERS**, focused on clean architecture, intuitive UX, and performance-driven products across Web, Android, and AI.
+I'm **Krishna Patil Rajput** — a **Freelance Full-Stack Web Developer**, **Native Android Developer**, and **AI Enthusiast**, currently a 3rd-year IT Engineering student at **Matoshri College of Engineering, Nashik**. I build under the brand **KRISHNACODERS**, focused on clean architecture, intuitive UX, and performance-driven products across Web, Android, and AI.
 
 - 🚀 **Focus:** React.js / Next.js web apps, native Android apps, and AI-powered products.
 - 🌱 **Learning:** Cloud Computing, DevOps, Cybersecurity, Multi-Agent AI Systems, and the Godot Engine.
