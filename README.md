@@ -9,7 +9,7 @@
 
 <!-- 🎯 Primary CTAs -->
 <a href="https://krishna-patil-rajput.vercel.app/"><img src="https://img.shields.io/badge/🌐_PORTFOLIO-Visit_Live_Site-38BDF8?style=for-the-badge&labelColor=0a0f1e" alt="Portfolio"/></a>
-<a href="./intro.html"><img src="https://img.shields.io/badge/▶_Live_Animated_Intro-GSAP_Powered-818cf8?style=for-the-badge&labelColor=0a0f1e" alt="Animated Intro"/></a>
+<a href="https://krishna-ajaysing-patil.vercel.app/"><img src="https://img.shields.io/badge/▶_Live_Animated_Intro-GSAP_Powered-818cf8?style=for-the-badge&labelColor=0a0f1e" alt="Animated Intro"/></a>
 <a href="https://www.instagram.com/reel/DZhDa0AK8EJ/?igsh=ZzByMzBlZnFzb3hn"><img src="https://img.shields.io/badge/🎥_Freelance_Reel-Watch_Now-22D3EE?style=for-the-badge&labelColor=0a0f1e" alt="Reel"/></a>
 
 </div>
