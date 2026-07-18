@@ -1,0 +1,43 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradL" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#eef4ff"/>
+      <stop offset="50%" stop-color="#e0f2fe"/>
+      <stop offset="100%" stop-color="#eef4ff"/>
+    </linearGradient>
+    <linearGradient id="textGradL" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0284c7"/>
+      <stop offset="50%" stop-color="#0891b2"/>
+      <stop offset="100%" stop-color="#4f46e5"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#bgGradL)"/>
+
+  <g stroke="#bae6fd" stroke-width="1.5" opacity="0.9" fill="none">
+    <path d="M0,250 H180 L210,220 H420"/>
+    <path d="M1200,60 H1000 L970,90 H760"/>
+    <path d="M0,40 H120 L150,70 H300"/>
+    <path d="M1200,260 H1080 L1050,230 H880"/>
+  </g>
+  <g fill="#0891b2" opacity="0.85">
+    <circle cx="420" cy="220" r="3.5"/>
+    <circle cx="760" cy="90" r="3.5"/>
+    <circle cx="300" cy="70" r="3.5"/>
+    <circle cx="880" cy="230" r="3.5"/>
+  </g>
+
+  <text x="600" y="150" text-anchor="middle" font-family="'Fira Code', 'Segoe UI', monospace" font-size="58" font-weight="800" fill="url(#textGradL)">
+    KRISHNA PATIL RAJPUT
+  </text>
+
+  <text x="600" y="192" text-anchor="middle" font-family="'Fira Code', monospace" font-size="20" fill="#475569" letter-spacing="1.5">
+    Full-Stack Web Developer · Android Developer · AI Enthusiast
+  </text>
+
+  <text x="600" y="228" text-anchor="middle" font-family="'Fira Code', monospace" font-size="16" fill="#0284c7" letter-spacing="3">
+    KRISHNACODERS
+  </text>
+
+  <rect x="500" y="245" width="200" height="2" fill="#0891b2" opacity="0.6"/>
+</svg>
