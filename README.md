@@ -1,58 +1,60 @@
 <!-- ========================================================================= -->
-<!--                   KRISHNACODERS (Krishna Patil Rajput)                    -->
-<!--                     ADVANCED CYBERPUNK PROFILE MATRIX                     -->
+<!--          KRISHNACODERS (Krishna67890) // KALI LINUX TERMINAL MATRIX       -->
 <!-- ========================================================================= -->
 
 <div align="center">
 
-  <!-- DYNAMIC ANIMATED HEADER BANNER -->
+  <!-- LOCAL REPOSITORY BANNER WITH FALLBACK -->
   <a href="https://github.com/Krishna67890">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,40:1E1B4B,70:312E81,100:4C1D95&height=260&section=header&text=KRISHNACODERS&fontSize=64&fontColor=38BDF8&animation=twinkling&fontAlignY=42&desc=KRISHNA%20PATIL%20RAJPUT%20%E2%80%A2%20TY%20IT%20ENGINEER&descAlignY=68&descAlign=50&descSize=18" width="100%" alt="Header Banner" />
+    <img src="krishnabanner.png" width="100%" alt="KRISHNACODERS Kali Banner" onError="this.src='https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00FF66,100:00F0FF&height=260&section=header&text=root@krishnacoders:~%23&fontSize=50&fontColor=0D1117&animation=twinkling&fontAlignY=45&desc=KRISHNA%20PATIL%20RAJPUT%20%7C%20CYBER%20%2B%20FULL-STACK%20%2B%20AI%20DEV&descAlignY=68&descAlign=50&descSize=16';" />
   </a>
 
-  <!-- REAL-TIME TYPING ENGINE -->
+  <br /><br />
+
+  <!-- TERMINAL TYPING SIMULATOR -->
   <p align="center">
     <a href="https://readme-typing-svg.demolab.com">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00F0FF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=system.init(%223rd_Year_IT_Engineering%22);;load_module(%22React_GSAP_Vite_SpeechAPI%22);;deploy_agent(%22GenAI_APAC_Decision_Intelligence%22);;execute(%22Godot_3D_Physics_BlockCraft%22);" alt="Terminal Typing Animation" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00FF66&center=true&vCenter=true&repeat=true&width=750&height=45&lines=root%40kali%3A~%23+nmap+-sV+-p-+3rd_Year_IT_Engineering%3B;root%40kali%3A~%23+msfconsole+-x+%22use+React_GSAP_Vite_SpeechAPI%22%3B;root%40kali%3A~%23+python3+agent_rag_vertex.py%3B;root%40kali%3A~%23+godot4+--headless+--script+BlockCraft.gd" alt="Terminal Typing Engine" />
     </a>
   </p>
 
-  <!-- QUICK NAVIGATION HUD BADGES -->
+  <!-- CYBER HUD STATUS BADGES -->
   <p align="center">
-    <a href="https://linktr.ee/KRISHNACODERS"><img src="https://img.shields.io/badge/HUB-LINKTREE-00F0FF?style=for-the-badge&logo=linktree&logoColor=black" /></a>
-    <a href="https://krishnablogy.blogspot.com/"><img src="https://img.shields.io/badge/BLOG-KRISHNA_BLOGY-FF0055?style=for-the-badge&logo=blogger&logoColor=white" /></a>
-    <a href="https://www.linkedin.com/in/krishna-patil-rajput/"><img src="https://img.shields.io/badge/NETWORK-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:contact.krishnacoders@gmail.com"><img src="https://img.shields.io/badge/DIRECT-EMAIL-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://linktr.ee/KRISHNACODERS"><img src="https://img.shields.io/badge/SYS_LINK-LINKTREE-00FF66?style=for-the-badge&logo=linktree&logoColor=0D1117" /></a>
+    <a href="https://krishnablogy.blogspot.com/"><img src="https://img.shields.io/badge/LOGS-KRISHNA_BLOGY-FF0055?style=for-the-badge&logo=blogger&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/krishna-patil-rajput/"><img src="https://img.shields.io/badge/NETWORK-LINKEDIN-00F0FF?style=for-the-badge&logo=linkedin&logoColor=0D1117" /></a>
+    <a href="mailto:contact.krishnacoders@gmail.com"><img src="https://img.shields.io/badge/EXPLOIT-EMAIL-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   </p>
 
 </div>
 
-<hr />
+<hr style="border: 1px solid #00FF66;" />
 
 <!-- ========================================================================= -->
-<!--                 HUD SYSTEM MONITOR & BIO DASHBOARD                        -->
+<!--                    KALI TERMINAL IDENTITY & LANYARD                       -->
 <!-- ========================================================================= -->
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td width="55%" valign="top">
+    <td width="60%" valign="top">
       <div align="left">
-        <h3>⚡ SYSTEM IDENTIFIER: KRISHNA PATIL RAJPUT</h3>
-        <p><b>Status:</b> 3rd Year IT Engineering Student @ Matoshri COE, Nashik, India 🇮🇳</p>
-        <p><b>Core Stack:</b> React 18, Vite, GSAP, Web Speech API, Node.js, Vertex AI, Java Android.</p>
-        <p><b>Focus:</b> Architecting cinematic, motion-driven full-stack web applications, autonomous decision intelligence agents, and interactive 3D web games.</p>
-        
-        <!-- SYSTEM METRIC BADGES -->
-        <p>
-          <img src="https://img.shields.io/badge/GPA-3rd_Year_IT-00F0FF?style=flat-square&logo=googleacademic&logoColor=white" />
-          <img src="https://img.shields.io/badge/Hackathons-Winner_%40_Hack2Skill-FFD700?style=flat-square&logo=trophy&logoColor=black" />
-          <img src="https://img.shields.io/badge/AI_Engine-Gemini_Vertex_RAG-7C3AED?style=flat-square&logo=googlegemini&logoColor=white" />
-        </p>
+        <h3 style="color: #00FF66;"><code>root@krishnacoders:~# cat /etc/identity.conf</code></h3>
+        <pre style="background: #0D1117; color: #00FF66; padding: 10px; border: 1px solid #00FF66; border-radius: 6px;">
+[OPERATIVE]     : Krishna Patil Rajput (Krishna67890)
+[CLASS]         : 3rd Year (TY) IT Engineering Student
+[LOCATION]      : Matoshri COE, Nashik, Maharashtra, IN 🇮🇳
+[PRIMARY_STACK] : MERN / Next.js / Vite / GSAP / Web Speech API
+[CYBER_OPS]     : Kali Linux, Nmap, Wireshark, Metasploit, Bash, Python
+[AI_CORE]       : Vertex AI, Gemini API, RAG Architecture, Agents
+[GAME_PHYSICS]  : Godot Engine, 3D BlockCraft, Custom Drift Engines</pre>
+        <p><b>Mission:</b> Developing secure, highly animated web systems, autonomous decision intelligence tools, and native Android applications with a hacker mindset.</p>
       </div>
     </td>
-    <td width="45%" valign="top" align="center">
-      <!-- LIVE TELEMETRY CARD -->
-      <img src="https://github-readme-stats.vercel.app/api?username=Krishna67890&show_icons=true&theme=dark&title_color=00F0FF&text_color=94A3B8&icon_color=7C3AED&bg_color=0F172A&hide_border=false&border_color=38BDF8" width="100%" alt="GitHub Metrics" />
+    <td width="40%" valign="top" align="center">
+      <!-- REPOSITORY LANYARD / BADGE ASSET -->
+      <a href="https://github.com/Krishna67890">
+        <img src="krishna-lanyard.svg" width="100%" alt="Cyber Lanyard Badge" onError="this.src='https://github-readme-stats.vercel.app/api?username=Krishna67890&show_icons=true&theme=synthwave&title_color=00FF66&text_color=94A3B8&icon_color=00F0FF&bg_color=0D1117&hide_border=false&border_color=00FF66';" />
+      </a>
     </td>
   </tr>
 </table>
@@ -60,43 +62,78 @@
 <br />
 
 <!-- ========================================================================= -->
-<!--                      FEATURED ARCHITECTURE & SHOWCASE                     -->
+<!--                 KALI LINUX & CYBERSECURITY SKILLS MATRIX                  -->
 <!-- ========================================================================= -->
 
-<h2 align="center">🛸 Engineering Matrix & Production Deployments</h2>
+<h2 align="center" style="color: #00FF66;">🐉 Offensive Security & Cyber Arsenal</h2>
+
+<div align="center">
+
+### 🛡️ Cyber Security & Penetration Testing
+[![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C93?style=for-the-badge&logo=kalilinux&logoColor=white)](https://www.kali.org/)
+[![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)](https://nmap.org/)
+[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org/)
+[![Metasploit](https://img.shields.io/badge/Metasploit-1D70B8?style=for-the-badge&logo=metasploit&logoColor=white)](https://www.metasploit.com/)
+[![Bash Scripting](https://img.shields.io/badge/Bash_Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![Linux SysAdmin](https://img.shields.io/badge/Linux_Kernel-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.kernel.org/)
+[![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white)](https://portswigger.net/burp)
+
+### 💻 Full-Stack Development & Web Animation
+[![React 18](https://img.shields.io/badge/React_18-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
+[![GSAP Animations](https://img.shields.io/badge/GSAP_Engine-88CE02?style=for-the-badge&logo=greensock&logoColor=black)](https://greensock.com/gsap/)
+[![JavaScript ES6+](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+
+### 🧠 Artificial Intelligence & Cloud Security
+[![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)](https://ai.google.dev/)
+[![Vertex AI](https://img.shields.io/badge/Vertex_AI-1A73E8?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com/vertex-ai)
+[![RAG Systems](https://img.shields.io/badge/RAG_Security-FF6F61?style=for-the-badge&logo=cpu&logoColor=white)](#)
+[![Docker Security](https://img.shields.io/badge/Docker_Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+
+</div>
+
+<br />
+
+<!-- ========================================================================= -->
+<!--                      FEATURED DEPLOYMENT SHOWCASE                         -->
+<!-- ========================================================================= -->
+
+<h2 align="center" style="color: #00F0FF;">⚡ Deployed Target Matrix & Exploits</h2>
 
 <table width="100%" cellspacing="10" cellpadding="10">
   <tr>
-    <td width="50%" bgcolor="#0F172A" style="border: 1px solid #38BDF8; border-radius: 8px;">
-      <h3 align="center" style="color: #00F0FF;">🤖 Smart Community AI</h3>
-      <p><b>Decision Intelligence Platform</b> engineered for city planning and municipal analytics during the <i>Gen AI Academy APAC Edition</i>.</p>
+    <td width="50%" bgcolor="#0D1117" style="border: 1px solid #00FF66; border-radius: 8px;">
+      <h3 align="center" style="color: #00FF66;">🤖 Smart Community AI</h3>
+      <p><b>Decision Intelligence Suite</b> built for Gen AI Academy APAC Edition to analyze municipal infrastructure and public safety data.</p>
       <p align="center">
-        <a href="https://krishnablogy.blogspot.com/2026/07/smart-community-ai.html"><b>[ Live Case Study ]</b></a>
+        <a href="https://krishnablogy.blogspot.com/2026/07/smart-community-ai.html"><code style="color: #00FF66;">[ Read System Logs ]</code></a>
       </p>
     </td>
-    <td width="50%" bgcolor="#0F172A" style="border: 1px solid #7C3AED; border-radius: 8px;">
-      <h3 align="center" style="color: #A855F7;">🗳️ Democracy Lens AI</h3>
-      <p><b>Hack2Skill Winner Project:</b> Generative AI Election-Mentor evaluating political bias, policies, and voter records.</p>
+    <td width="50%" bgcolor="#0D1117" style="border: 1px solid #00F0FF; border-radius: 8px;">
+      <h3 align="center" style="color: #00F0FF;">🗳️ Democracy Lens AI</h3>
+      <p><b>Hack2Skill Winner Project:</b> Generative AI mentor for voter intelligence, policy evaluation, and candidate tracking.</p>
       <p align="center">
-        <a href="https://krishnablogy.blogspot.com/2026/04/democracy-lens-ai-election-mentor.html"><b>[ View Hackathon Award ]</b></a>
+        <a href="https://krishnablogy.blogspot.com/2026/04/democracy-lens-ai-election-mentor.html"><code style="color: #00F0FF;">[ View Winner Record ]</code></a>
       </p>
     </td>
   </tr>
   <tr>
-    <td width="50%" bgcolor="#0F172A" style="border: 1px solid #EC4899; border-radius: 8px;">
-      <h3 align="center" style="color: #F43F5E;">⚔️ ArenaMindAI & UrbanMind</h3>
-      <p>FIFA World Cup 2026 PromptWars interactive arena + Kaggle AI Capstone urban simulation engines.</p>
+    <td width="50%" bgcolor="#0D1117" style="border: 1px solid #FF0055; border-radius: 8px;">
+      <h3 align="center" style="color: #FF0055;">⚔️ ArenaMindAI & UrbanMind</h3>
+      <p>FIFA World Cup 2026 Virtual PromptWars challenge arena + Kaggle AI Capstone urban simulation project.</p>
       <p align="center">
-        <a href="https://www.youtube.com/embed/HRLPRi5-Se4"><b>[ ArenaMind Demo ]</b></a> | 
-        <a href="https://www.youtube.com/embed/zlT6qAyaO9Y"><b>[ UrbanMind Demo ]</b></a>
+        <a href="https://www.youtube.com/embed/HRLPRi5-Se4"><code>[ Arena Demo ]</code></a> | 
+        <a href="https://www.youtube.com/embed/zlT6qAyaO9Y"><code>[ Urban Demo ]</code></a>
       </p>
     </td>
-    <td width="50%" bgcolor="#0F172A" style="border: 1px solid #10B981; border-radius: 8px;">
-      <h3 align="center" style="color: #10B981;">🧱 Minecraft Building Quest & Drift</h3>
-      <p>3D Browser block-building parkour sandbox paired with high-velocity drift physics simulator.</p>
+    <td width="50%" bgcolor="#0D1117" style="border: 1px solid #FFD700; border-radius: 8px;">
+      <h3 align="center" style="color: #FFD700;">🧱 Minecraft BlockQuest & Drift</h3>
+      <p>Interactive 3D browser block-building sandbox paired with high-velocity vehicle drift racing physics.</p>
       <p align="center">
-        <a href="https://krishnablogy.blogspot.com/2026/04/block-parkour.html"><b>[ Play Block Quest ]</b></a> | 
-        <a href="https://krishnablogy.blogspot.com/2026/04/vertigo-drift-rage-obstacle-course.html"><b>[ Play Drift Game ]</b></a>
+        <a href="https://krishnablogy.blogspot.com/2026/04/block-parkour.html"><code>[ Play BlockQuest ]</code></a> | 
+        <a href="https://krishnablogy.blogspot.com/2026/04/vertigo-drift-rage-obstacle-course.html"><code>[ Play Drift ]</code></a>
       </p>
     </td>
   </tr>
@@ -108,7 +145,7 @@
 <!--                    AUTONOMOUS SNAKE & TECHNICAL STATS                     -->
 <!-- ========================================================================= -->
 
-<h2 align="center">🐍 Continuous Contribution Activity</h2>
+<h2 align="center" style="color: #00FF66;">🐍 Contribution Attack Surface</h2>
 
 <div align="center">
   <picture>
@@ -127,28 +164,13 @@
 <table width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishna67890&layout=compact&theme=dark&title_color=00F0FF&text_color=94A3B8&bg_color=0F172A&hide_border=false&border_color=38BDF8" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishna67890&layout=compact&theme=synthwave&title_color=00FF66&text_color=94A3B8&bg_color=0D1117&hide_border=false&border_color=00FF66" width="100%" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krishna67890&theme=dark&background=0F172A&stroke=00F0FF&alarm=7C3AED&fire=00F0FF&currStreakLabel=00F0FF&sideLabels=94A3B8&dates=94A3B8&hide_border=false&border_color=38BDF8" width="100%" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krishna67890&theme=synthwave&background=0D1117&stroke=00FF66&alarm=FF0055&fire=00FF66&currStreakLabel=00FF66&sideLabels=94A3B8&dates=94A3B8&hide_border=false&border_color=00FF66" width="100%" />
     </td>
   </tr>
 </table>
-
-<br />
-
-<!-- ========================================================================= -->
-<!--                        AUTOMATED BLOG FEED SECTION                        -->
-<!-- ========================================================================= -->
-
-<h2 align="center">📝 Latest Engineering Articles (Auto-Updated)</h2>
-
-<!-- BLOG-POST-LIST:START -->
-* [Smart Community AI — Decision Intelligence Platform](https://krishnablogy.blogspot.com/2026/07/smart-community-ai.html)
-* [Democracy Lens: Hack2Skill Winner Walkthrough](https://krishnablogy.blogspot.com/2026/04/democracy-lens-ai-election-mentor.html)
-* [AutoFlow AI: Autonomous Workflow Engineering](https://krishnablogy.blogspot.com/2026/04/autoflow-ai-let-ai-do-your-work.html)
-* [3D Block Parkour Game Engine Breakdown](https://krishnablogy.blogspot.com/2026/04/block-parkour.html)
-<!-- BLOG-POST-LIST:END -->
 
 <br />
 
@@ -157,7 +179,7 @@
 <!-- ========================================================================= -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:312E81,100:0F172A&height=120&section=footer" width="100%" />
-  <p><b>Designed & Built by Krishna Patil Rajput (KRISHNACODERS)</b></p>
-  <p><small>3rd Year IT Engineering • Web • AI Agents • Game Physics</small></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FF66,100:0D1117&height=120&section=footer" width="100%" />
+  <p style="color: #00FF66;"><b><code>root@krishnacoders:~# echo "Designed & Engineered by Krishna Patil Rajput"</code></b></p>
+  <p><small>© 2026 KRISHNACODERS • Transitioned to 3rd Year IT Engineering</small></p>
 </div>
