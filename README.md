@@ -1,159 +1,163 @@
+<!-- ========================================================================= -->
+<!--                   KRISHNACODERS (Krishna Patil Rajput)                    -->
+<!--                     ADVANCED CYBERPUNK PROFILE MATRIX                     -->
+<!-- ========================================================================= -->
+
 <div align="center">
 
-<!-- ✨ Hero Banner ✨ -->
-<img src="./krishnabanner.png" alt="Krishna Patil Rajput — Full-Stack, Android & AI Developer" width="100%"/>
+  <!-- DYNAMIC ANIMATED HEADER BANNER -->
+  <a href="https://github.com/Krishna67890">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,40:1E1B4B,70:312E81,100:4C1D95&height=260&section=header&text=KRISHNACODERS&fontSize=64&fontColor=38BDF8&animation=twinkling&fontAlignY=42&desc=KRISHNA%20PATIL%20RAJPUT%20%E2%80%A2%20TY%20IT%20ENGINEER&descAlignY=68&descAlign=50&descSize=18" width="100%" alt="Header Banner" />
+  </a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&height=45&lines=Freelance+Full-Stack+Web+Developer;Native+Android+Application+Developer;AI+%26+Cloud+Enthusiast;Future+Game+Developer+%7C+Godot+Engine" alt="Typing SVG" />
+  <!-- REAL-TIME TYPING ENGINE -->
+  <p align="center">
+    <a href="https://readme-typing-svg.demolab.com">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00F0FF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=system.init(%223rd_Year_IT_Engineering%22);;load_module(%22React_GSAP_Vite_SpeechAPI%22);;deploy_agent(%22GenAI_APAC_Decision_Intelligence%22);;execute(%22Godot_3D_Physics_BlockCraft%22);" alt="Terminal Typing Animation" />
+    </a>
+  </p>
 
-<br/>
-
-<!-- 🎯 Primary CTAs -->
-<a href="https://krishna-patil-rajput.vercel.app/"><img src="https://img.shields.io/badge/🌐_PORTFOLIO-Visit_Live_Site-38BDF8?style=for-the-badge&labelColor=0a0f1e" alt="Portfolio"/></a>
-<a href="https://krishna-ajaysing-patil.vercel.app/"><img src="https://img.shields.io/badge/▶_Live_Animated_Intro-GSAP_Powered-818cf8?style=for-the-badge&labelColor=0a0f1e" alt="Animated Intro"/></a>
-<a href="https://www.instagram.com/reel/DZhDa0AK8EJ/?igsh=ZzByMzBlZnFzb3hn"><img src="https://img.shields.io/badge/🎥_Freelance_Reel-Watch_Now-22D3EE?style=for-the-badge&labelColor=0a0f1e" alt="Reel"/></a>
+  <!-- QUICK NAVIGATION HUD BADGES -->
+  <p align="center">
+    <a href="https://linktr.ee/KRISHNACODERS"><img src="https://img.shields.io/badge/HUB-LINKTREE-00F0FF?style=for-the-badge&logo=linktree&logoColor=black" /></a>
+    <a href="https://krishnablogy.blogspot.com/"><img src="https://img.shields.io/badge/BLOG-KRISHNA_BLOGY-FF0055?style=for-the-badge&logo=blogger&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/krishna-patil-rajput/"><img src="https://img.shields.io/badge/NETWORK-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:contact.krishnacoders@gmail.com"><img src="https://img.shields.io/badge/DIRECT-EMAIL-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  </p>
 
 </div>
 
-<br/>
+<hr />
 
-<table align="center" border="0">
-<tr>
-<td width="38%" align="center" valign="middle">
+<!-- ========================================================================= -->
+<!--                 HUD SYSTEM MONITOR & BIO DASHBOARD                        -->
+<!-- ========================================================================= -->
 
-<!-- 🪪 Swinging Lanyard ID Card -->
-<img src="./krishna-lanyard.svg?v=1" alt="Krishna Patil Rajput ID badge" width="300"/>
-
-</td>
-<td width="62%" valign="middle">
-
-### ⚡ Quick Facts
-
-| | |
-| :--- | :--- |
-| 🌐 **Portfolio** | [krishna-patil-rajput.vercel.app](https://krishna-patil-rajput.vercel.app/) |
-| 🎓 **Studying** | IT Engineering, 3rd Year @ Matoshri College of Engineering |
-| 💼 **Available for** | Freelance projects & hackathons |
-| 🏷️ **Brand** | KRISHNACODERS | Krishna Patil Rajput |
-| 🎯 **Building** | Web apps · Android apps · AI products |
-
-<br/>
-
-> 💙 *"I don't just write code — I ship products."*
-
-</td>
-</tr>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="55%" valign="top">
+      <div align="left">
+        <h3>⚡ SYSTEM IDENTIFIER: KRISHNA PATIL RAJPUT</h3>
+        <p><b>Status:</b> 3rd Year IT Engineering Student @ Matoshri COE, Nashik, India 🇮🇳</p>
+        <p><b>Core Stack:</b> React 18, Vite, GSAP, Web Speech API, Node.js, Vertex AI, Java Android.</p>
+        <p><b>Focus:</b> Architecting cinematic, motion-driven full-stack web applications, autonomous decision intelligence agents, and interactive 3D web games.</p>
+        
+        <!-- SYSTEM METRIC BADGES -->
+        <p>
+          <img src="https://img.shields.io/badge/GPA-3rd_Year_IT-00F0FF?style=flat-square&logo=googleacademic&logoColor=white" />
+          <img src="https://img.shields.io/badge/Hackathons-Winner_%40_Hack2Skill-FFD700?style=flat-square&logo=trophy&logoColor=black" />
+          <img src="https://img.shields.io/badge/AI_Engine-Gemini_Vertex_RAG-7C3AED?style=flat-square&logo=googlegemini&logoColor=white" />
+        </p>
+      </div>
+    </td>
+    <td width="45%" valign="top" align="center">
+      <!-- LIVE TELEMETRY CARD -->
+      <img src="https://github-readme-stats.vercel.app/api?username=Krishna67890&show_icons=true&theme=dark&title_color=00F0FF&text_color=94A3B8&icon_color=7C3AED&bg_color=0F172A&hide_border=false&border_color=38BDF8" width="100%" alt="GitHub Metrics" />
+    </td>
+  </tr>
 </table>
 
-<br/>
+<br />
 
-## 👨‍💻 About Me
+<!-- ========================================================================= -->
+<!--                      FEATURED ARCHITECTURE & SHOWCASE                     -->
+<!-- ========================================================================= -->
 
-I'm **Krishna Ajaysing Rajput** — a **Freelance Full-Stack Web Developer**, **Native Android Developer**, and **AI Enthusiast**, currently a 2nd-year IT Engineering student at **Matoshri College of Engineering, Nashik**. I build under the brand **KRISHNACODERS**, focused on clean architecture, intuitive UX, and performance-driven products across Web, Android, and AI.
+<h2 align="center">🛸 Engineering Matrix & Production Deployments</h2>
 
-Check out my full body of work on my portfolio: **[krishna-patil-rajput.vercel.app](https://krishna-patil-rajput.vercel.app/)**
+<table width="100%" cellspacing="10" cellpadding="10">
+  <tr>
+    <td width="50%" bgcolor="#0F172A" style="border: 1px solid #38BDF8; border-radius: 8px;">
+      <h3 align="center" style="color: #00F0FF;">🤖 Smart Community AI</h3>
+      <p><b>Decision Intelligence Platform</b> engineered for city planning and municipal analytics during the <i>Gen AI Academy APAC Edition</i>.</p>
+      <p align="center">
+        <a href="https://krishnablogy.blogspot.com/2026/07/smart-community-ai.html"><b>[ Live Case Study ]</b></a>
+      </p>
+    </td>
+    <td width="50%" bgcolor="#0F172A" style="border: 1px solid #7C3AED; border-radius: 8px;">
+      <h3 align="center" style="color: #A855F7;">🗳️ Democracy Lens AI</h3>
+      <p><b>Hack2Skill Winner Project:</b> Generative AI Election-Mentor evaluating political bias, policies, and voter records.</p>
+      <p align="center">
+        <a href="https://krishnablogy.blogspot.com/2026/04/democracy-lens-ai-election-mentor.html"><b>[ View Hackathon Award ]</b></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" bgcolor="#0F172A" style="border: 1px solid #EC4899; border-radius: 8px;">
+      <h3 align="center" style="color: #F43F5E;">⚔️ ArenaMindAI & UrbanMind</h3>
+      <p>FIFA World Cup 2026 PromptWars interactive arena + Kaggle AI Capstone urban simulation engines.</p>
+      <p align="center">
+        <a href="https://www.youtube.com/embed/HRLPRi5-Se4"><b>[ ArenaMind Demo ]</b></a> | 
+        <a href="https://www.youtube.com/embed/zlT6qAyaO9Y"><b>[ UrbanMind Demo ]</b></a>
+      </p>
+    </td>
+    <td width="50%" bgcolor="#0F172A" style="border: 1px solid #10B981; border-radius: 8px;">
+      <h3 align="center" style="color: #10B981;">🧱 Minecraft Building Quest & Drift</h3>
+      <p>3D Browser block-building parkour sandbox paired with high-velocity drift physics simulator.</p>
+      <p align="center">
+        <a href="https://krishnablogy.blogspot.com/2026/04/block-parkour.html"><b>[ Play Block Quest ]</b></a> | 
+        <a href="https://krishnablogy.blogspot.com/2026/04/vertigo-drift-rage-obstacle-course.html"><b>[ Play Drift Game ]</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-- 🚀 **Focus:** React.js / Next.js web apps, native Android apps, and AI-powered products.
-- 🌱 **Learning:** Cloud Computing, DevOps, Cybersecurity, Multi-Agent AI Systems, and the Godot Engine.
-- 🎯 **Mission:** Build innovative products, collaborate globally, and keep pushing what's possible with software.
-- 🗺️ **My Journey:** [From school to Engineering →](./journey.md)
+<br />
 
-<br/>
+<!-- ========================================================================= -->
+<!--                    AUTONOMOUS SNAKE & TECHNICAL STATS                     -->
+<!-- ========================================================================= -->
 
-## 🛠️ Tech Stack
+<h2 align="center">🐍 Continuous Contribution Activity</h2>
 
 <div align="center">
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-![Godot](https://img.shields.io/badge/Godot_Engine-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Krishna67890/Krishna67890/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Krishna67890/Krishna67890/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/Krishna67890/Krishna67890/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
 </div>
 
-<br/>
+<br />
 
-## 🌐 Learning Platforms & Communities
+<!-- ========================================================================= -->
+<!--                         LANGUAGE MATRIX & STREAKS                         -->
+<!-- ========================================================================= -->
 
-| Platform | Profile |
-| :--- | :--- |
-| 🟦 **Google Developer Program** | [View Profile](https://me.developers.google.com/u/krishna-patil-rajput) |
-| ☁️ **Google Cloud Skills Boost** | [View Profile](https://www.skills.google/public_profiles/9556852e-a998-4fbf-9a27-23c3ec7a97e4) |
-| 🚀 **Hack2Skill** | [View Profile](https://hack2skill.com/dashboard/user_public_profile/?userId=6985d138d9155d4c3659a9e1&utm_source=hack2skill&utm_medium=homepage) |
-| 🤖 **lablab.ai** | [View Profile](https://lablab.ai/u/@krishna_patil_rajput) |
-| 📊 **Kaggle** | [View Profile](https://www.kaggle.com/krishnapatilrajput) |
-| 🟣 **Microsoft Learn** | [View Profile](https://learn.microsoft.com/en-us/users/krishnapatilrajput-1391/) |
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishna67890&layout=compact&theme=dark&title_color=00F0FF&text_color=94A3B8&bg_color=0F172A&hide_border=false&border_color=38BDF8" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krishna67890&theme=dark&background=0F172A&stroke=00F0FF&alarm=7C3AED&fire=00F0FF&currStreakLabel=00F0FF&sideLabels=94A3B8&dates=94A3B8&hide_border=false&border_color=38BDF8" width="100%" />
+    </td>
+  </tr>
+</table>
 
-<br/>
+<br />
+
+<!-- ========================================================================= -->
+<!--                        AUTOMATED BLOG FEED SECTION                        -->
+<!-- ========================================================================= -->
+
+<h2 align="center">📝 Latest Engineering Articles (Auto-Updated)</h2>
+
+<!-- BLOG-POST-LIST:START -->
+* [Smart Community AI — Decision Intelligence Platform](https://krishnablogy.blogspot.com/2026/07/smart-community-ai.html)
+* [Democracy Lens: Hack2Skill Winner Walkthrough](https://krishnablogy.blogspot.com/2026/04/democracy-lens-ai-election-mentor.html)
+* [AutoFlow AI: Autonomous Workflow Engineering](https://krishnablogy.blogspot.com/2026/04/autoflow-ai-let-ai-do-your-work.html)
+* [3D Block Parkour Game Engine Breakdown](https://krishnablogy.blogspot.com/2026/04/block-parkour.html)
+<!-- BLOG-POST-LIST:END -->
+
+<br />
+
+<!-- ========================================================================= -->
+<!--                               FOOTER CTA                                  -->
+<!-- ========================================================================= -->
 
 <div align="center">
-
-### 📊 GitHub Stats & Graphs
-
-<img src="https://github-readme-stats.vercel.app/api?username=Krishna67890&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0f1e&title_color=38bdf8&icon_color=22d3ee&text_color=cbd5e1" height="185"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishna67890&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0f1e&title_color=38bdf8&text_color=cbd5e1" height="185"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=Krishna67890&theme=tokyonight&hide_border=true&background=0a0f1e&ring=38bdf8&fire=22d3ee&currStreakLabel=38bdf8" alt="GitHub Streak"/>
-
-<br/><br/>
-
-<!-- 📈 Contribution Activity Graph -->
-<h4>📈 Contribution Activity</h4>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Krishna67890&theme=react-dark&bg_color=0a0f1e&color=38bdf8&line=22d3ee&point=818cf8&area=true&area_color=1e3a8a&hide_border=true&custom_title=Contribution%20Graph%20💙" alt="Contribution graph" width="95%"/>
-
-<sub>⚠️ If this graph doesn't render: the free <code>github-readme-activity-graph.vercel.app</code> instance occasionally sleeps/rate-limits. It usually resolves within a few minutes on refresh — no action needed on your end.</sub>
-
-<br/><br/>
-
-<!-- 🏆 Trophies -->
-<h4>🏆 Trophies</h4>
-<img src="https://github-profile-trophy.vercel.app/?username=Krishna67890&theme=algolia&no-frame=true&row=1&column=7" width="95%"/>
-
-<br/><br/>
-
-### 🐍 Watch the snake eat my contributions
-<img src="https://raw.githubusercontent.com/Krishna67890/Krishna67890/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" width="100%"/>
-
-<sub>⚠️ Snake blank/broken? The <code>output</code> branch is only created after the <a href="./.github/workflows/snake.yml">snake workflow</a> runs successfully at least once — see the fix checklist below.</sub>
-
-<br/><br/>
-
-<details>
-<summary><b>🔧 Snake not showing? 3-step fix</b></summary>
-<br/>
-
-1. **Settings → Actions → General → Workflow permissions** → select **"Read and write permissions"** → Save. (Without this, the workflow can't push to the `output` branch.)
-2. **Actions tab → "generate animation"** → **Run workflow** (manual trigger) → wait ~30 seconds for it to finish.
-3. Refresh this README — the `output` branch now exists and the snake image will load.
-
-After the first successful run, it auto-regenerates every 24 hours via the cron schedule.
-</details>
-
-<br/><br/>
-
-### 📫 Let's Connect
-
-<a href="https://krishna-patil-rajput.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-<a href="mailto:krishnapr67890@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://github.com/Krishna67890"><img src="https://img.shields.io/badge/GitHub-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/krishna-patil-rajput-b66b03340"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://www.instagram.com/reel/DZhDa0AK8EJ/?igsh=ZzByMzBlZnFzb3hn"><img src="https://img.shields.io/badge/Freelance_Reel-22D3EE?style=for-the-badge&logo=instagram&logoColor=white" alt="Reel"/></a>
-<a href="https://linktr.ee/KRISHNACODERS"><img src="https://img.shields.io/badge/Linktree-43E660?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree"/></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Krishna67890&color=38bdf8&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
-
-<br/><br/>
-
-*⭐️ Curiosity wrote my first line of code — consistency will write the rest.* 💙
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:312E81,100:0F172A&height=120&section=footer" width="100%" />
+  <p><b>Designed & Built by Krishna Patil Rajput (KRISHNACODERS)</b></p>
+  <p><small>3rd Year IT Engineering • Web • AI Agents • Game Physics</small></p>
 </div>
