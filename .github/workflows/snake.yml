@@ -1,30 +1,33 @@
-name: generate animation
+name: Generate Profile Animations & Auto-Update Data
 
 on:
+  # Run automatically every 24 hours
   schedule:
-    - cron: "0 */24 * * *"
+    - cron: "0 0 * * *"
+  # Allows manual triggers from GitHub Actions tab
   workflow_dispatch:
-  push:
-    branches:
-      - main
 
 jobs:
-  generate:
-    permissions:
-      contents: write
+  build:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
-
     steps:
-      - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
+      # Step 1: Checkout Repository
+      - name: Checkout Code
+        uses: actions/checkout@v3
+
+      # Step 2: Generate Contribution Snake Animation
+      - name: Generate Snake SVG Animation
+        uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: Krishna67890
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: push github-contribution-grid-snake.svg to the output branch
+      # Step 3: Deploy Generated SVG Files to Output Branch
+      - name: Push Snake SVG to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
