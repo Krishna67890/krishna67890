@@ -22,7 +22,7 @@
   <p align="center">
     <a href="https://linktr.ee/KRISHNACODERS"><img src="https://img.shields.io/badge/SYS_LINK-LINKTREE-00FF66?style=for-the-badge&logo=linktree&logoColor=0D1117" /></a>
     <a href="https://krishnablogy.blogspot.com/"><img src="https://img.shields.io/badge/LOGS-KRISHNA_BLOGY-FF0055?style=for-the-badge&logo=blogger&logoColor=white" /></a>
-    <a href="https://www.linkedin.com/in/krishna-patil-rajput/"><img src="https://img.shields.io/badge/NETWORK-LINKEDIN-00F0FF?style=for-the-badge&logo=linkedin&logoColor=0D1117" /></a>
+    <a href="https://www.linkedin.com/in/krishna-patil-rajput-b66b03340/"><img src="https://img.shields.io/badge/NETWORK-LINKEDIN-00F0FF?style=for-the-badge&logo=linkedin&logoColor=0D1117" /></a>
     <a href="mailto:contact.krishnacoders@gmail.com"><img src="https://img.shields.io/badge/EXPLOIT-EMAIL-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   </p>
 
